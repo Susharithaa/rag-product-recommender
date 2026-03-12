@@ -30,10 +30,7 @@ stages:
     pool:
       name: selfhosted-pool   # Self-hosted pool
     steps:
-    - task: UsePythonVersion@0
-      inputs:
-        versionSpec: '$(pythonVersion)'
-      displayName: 'Use Python $(pythonVersion)'
+    
     - script: |
         where python
         python --version
