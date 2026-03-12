@@ -13,8 +13,6 @@ variables:
   # Web app name
   webAppName: 'SusharithaSE'
 
-  # Agent VM image name
-  vmImageName: 'ubuntu-latest'
 
   # Environment name
   environmentName: 'SusharithaSE'
