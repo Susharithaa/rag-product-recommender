@@ -30,7 +30,7 @@ stages:
   jobs:
   - job: BuildJob
     pool:
-      vmImage: $(vmImageName)
+      name: selfhosted-pool   # Self-hosted pool
     steps:
     - task: UsePythonVersion@0
       inputs:
@@ -66,7 +66,7 @@ stages:
   jobs:
   - deployment: DeploymentJob
     pool:
-      vmImage: $(vmImageName)
+      name: selfhosted-pool   # Self-hosted pool
     environment: $(environmentName)
     strategy:
       runOnce:
