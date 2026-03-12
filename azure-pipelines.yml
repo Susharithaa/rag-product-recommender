@@ -6,7 +6,7 @@ variables:
 
   azureServiceConnectionId: "596ec8ae-7576-4f64-a67a-651a28356fcd"
 
-  webAppName: "E-commSemanticSearch"
+  webAppName: "SusharithaSE"
 
   pythonVersion: "3.11"
  
