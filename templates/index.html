@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>RAG Product Recommendation</title>
+</head>
+
+<body>
+
+<h2>Product Recommendation</h2>
+
+<input type="text" id="query" placeholder="Search product"/>
+<button onclick="search()">Search</button>
+
+<h3>Results</h3>
+<div id="results"></div>
+
+<h3>LLM Recommendation</h3>
+<div id="answer"></div>
+
+<script>
+
+async function search(){
+
+let query=document.getElementById("query").value
+
+let res=await fetch("/search",{
+method:"POST",
+headers:{"Content-Type":"application/json"},
+body:JSON.stringify({query:query})
+})
+
+let data=await res.json()
+
+let r=""
+
+data.results.forEach(p=>{
+r+= "<p>"+p.name+" - "+p.description+"</p>"
+})
+
+document.getElementById("results").innerHTML=r
+document.getElementById("answer").innerHTML=data.recommendation
+
+}
+
+</script>
+
+</body>
+</html>

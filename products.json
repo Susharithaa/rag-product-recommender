@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "name": "EliteGear Keyboard 1",
+        "category": "Keyboard",
+        "brand": "EliteGear",
+        "price": 301,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 2,
+        "name": "SpeedPro Speaker 2",
+        "category": "Speaker",
+        "brand": "SpeedPro",
+        "price": 1916,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 3,
+        "name": "UltraGear Smartphone 3",
+        "category": "Smartphone",
+        "brand": "UltraGear",
+        "price": 98,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 4,
+        "name": "EliteGear Headphones 4",
+        "category": "Headphones",
+        "brand": "EliteGear",
+        "price": 1050,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 5,
+        "name": "NextGen Keyboard 5",
+        "category": "Keyboard",
+        "brand": "NextGen",
+        "price": 1421,
+        "description": "Built with advanced technology"
+    },
+    {
+        "id": 6,
+        "name": "UltraGear Speaker 6",
+        "category": "Speaker",
+        "brand": "UltraGear",
+        "price": 1985,
+        "description": "Lightweight and comfortable"
+    },
+    {
+        "id": 7,
+        "name": "VisionTech Smartphone 7",
+        "category": "Smartphone",
+        "brand": "VisionTech",
+        "price": 1373,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 8,
+        "name": "TechPro Shoes 8",
+        "category": "Shoes",
+        "brand": "TechPro",
+        "price": 1023,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 9,
+        "name": "PowerX Camera 9",
+        "category": "Camera",
+        "brand": "PowerX",
+        "price": 1528,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 10,
+        "name": "PowerX Smartphone 10",
+        "category": "Smartphone",
+        "brand": "PowerX",
+        "price": 1120,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 11,
+        "name": "UltraGear Laptop 11",
+        "category": "Laptop",
+        "brand": "UltraGear",
+        "price": 1245,
+        "description": "Designed for performance and durability"
+    },
+    {
+        "id": 12,
+        "name": "SpeedPro Watch 12",
+        "category": "Watch",
+        "brand": "SpeedPro",
+        "price": 652,
+        "description": "Designed for performance and durability"
+    },
+    {
+        "id": 13,
+        "name": "EliteGear Headphones 13",
+        "category": "Headphones",
+        "brand": "EliteGear",
+        "price": 1230,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 14,
+        "name": "Nova Laptop 14",
+        "category": "Laptop",
+        "brand": "Nova",
+        "price": 1851,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 15,
+        "name": "SpeedPro Watch 15",
+        "category": "Watch",
+        "brand": "SpeedPro",
+        "price": 1277,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 16,
+        "name": "TechPro Speaker 16",
+        "category": "Speaker",
+        "brand": "TechPro",
+        "price": 1186,
+        "description": "Lightweight and comfortable"
+    },
+    {
+        "id": 17,
+        "name": "VisionTech Mouse 17",
+        "category": "Mouse",
+        "brand": "VisionTech",
+        "price": 1872,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 18,
+        "name": "EliteGear Shoes 18",
+        "category": "Shoes",
+        "brand": "EliteGear",
+        "price": 1878,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 19,
+        "name": "UltraGear Headphones 19",
+        "category": "Headphones",
+        "brand": "UltraGear",
+        "price": 723,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 20,
+        "name": "VisionTech Shoes 20",
+        "category": "Shoes",
+        "brand": "VisionTech",
+        "price": 743,
+        "description": "Built with advanced technology"
+    },
+    {
+        "id": 21,
+        "name": "PowerX Shoes 21",
+        "category": "Shoes",
+        "brand": "PowerX",
+        "price": 1771,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 22,
+        "name": "PowerX Camera 22",
+        "category": "Camera",
+        "brand": "PowerX",
+        "price": 765,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 23,
+        "name": "SmartWave Laptop 23",
+        "category": "Laptop",
+        "brand": "SmartWave",
+        "price": 653,
+        "description": "Designed for performance and durability"
+    },
+    {
+        "id": 24,
+        "name": "TechPro Backpack 24",
+        "category": "Backpack",
+        "brand": "TechPro",
+        "price": 1508,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 25,
+        "name": "UltraGear Backpack 25",
+        "category": "Backpack",
+        "brand": "UltraGear",
+        "price": 1982,
+        "description": "Lightweight and comfortable"
+    },
+    {
+        "id": 26,
+        "name": "VisionTech Backpack 26",
+        "category": "Backpack",
+        "brand": "VisionTech",
+        "price": 1482,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 27,
+        "name": "Nova Backpack 27",
+        "category": "Backpack",
+        "brand": "Nova",
+        "price": 183,
+        "description": "Engineered for maximum productivity"
+    },
+    {
+        "id": 28,
+        "name": "NextGen Watch 28",
+        "category": "Watch",
+        "brand": "NextGen",
+        "price": 1369,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 29,
+        "name": "VisionTech Speaker 29",
+        "category": "Speaker",
+        "brand": "VisionTech",
+        "price": 856,
+        "description": "Premium design with modern features"
+    },
+    {
+        "id": 30,
+        "name": "NextGen Shoes 30",
+        "category": "Shoes",
+        "brand": "NextGen",
+        "price": 743,
+        "description": "Designed for performance and durability"
+    },
+    {
+        "id": 31,
+        "name": "SpeedPro Camera 31",
+        "category": "Camera",
+        "brand": "SpeedPro",
+        "price": 1479,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 32,
+        "name": "EliteGear Backpack 32",
+        "category": "Backpack",
+        "brand": "EliteGear",
+        "price": 1560,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 33,
+        "name": "TechPro Backpack 33",
+        "category": "Backpack",
+        "brand": "TechPro",
+        "price": 545,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 34,
+        "name": "NextGen Camera 34",
+        "category": "Camera",
+        "brand": "NextGen",
+        "price": 1323,
+        "description": "Best choice for professionals"
+    },
+    {
+        "id": 35,
+        "name": "UltraGear Backpack 35",
+        "category": "Backpack",
+        "brand": "UltraGear",
+        "price": 1018,
+        "description": "Best choice for professionals"
+    },
+    {
+        "id": 36,
+        "name": "NextGen Keyboard 36",
+        "category": "Keyboard",
+        "brand": "NextGen",
+        "price": 1960,
+        "description": "Designed for performance and durability"
+    },
+    {
+        "id": 37,
+        "name": "SpeedPro Shoes 37",
+        "category": "Shoes",
+        "brand": "SpeedPro",
+        "price": 1587,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 38,
+        "name": "UltraGear Backpack 38",
+        "category": "Backpack",
+        "brand": "UltraGear",
+        "price": 529,
+        "description": "Engineered for maximum productivity"
+    },
+    {
+        "id": 39,
+        "name": "SpeedPro Smartphone 39",
+        "category": "Smartphone",
+        "brand": "SpeedPro",
+        "price": 566,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 40,
+        "name": "VisionTech Shoes 40",
+        "category": "Shoes",
+        "brand": "VisionTech",
+        "price": 628,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 41,
+        "name": "SpeedPro Headphones 41",
+        "category": "Headphones",
+        "brand": "SpeedPro",
+        "price": 1754,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 42,
+        "name": "EliteGear Shoes 42",
+        "category": "Shoes",
+        "brand": "EliteGear",
+        "price": 781,
+        "description": "Premium design with modern features"
+    },
+    {
+        "id": 43,
+        "name": "SpeedPro Laptop 43",
+        "category": "Laptop",
+        "brand": "SpeedPro",
+        "price": 1281,
+        "description": "Engineered for maximum productivity"
+    },
+    {
+        "id": 44,
+        "name": "UltraGear Watch 44",
+        "category": "Watch",
+        "brand": "UltraGear",
+        "price": 1815,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 45,
+        "name": "SpeedPro Headphones 45",
+        "category": "Headphones",
+        "brand": "SpeedPro",
+        "price": 46,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 46,
+        "name": "UltraGear Laptop 46",
+        "category": "Laptop",
+        "brand": "UltraGear",
+        "price": 1144,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 47,
+        "name": "SpeedPro Backpack 47",
+        "category": "Backpack",
+        "brand": "SpeedPro",
+        "price": 291,
+        "description": "Engineered for maximum productivity"
+    },
+    {
+        "id": 48,
+        "name": "SpeedPro Mouse 48",
+        "category": "Mouse",
+        "brand": "SpeedPro",
+        "price": 310,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 49,
+        "name": "VisionTech Mouse 49",
+        "category": "Mouse",
+        "brand": "VisionTech",
+        "price": 1781,
+        "description": "Premium design with modern features"
+    },
+    {
+        "id": 50,
+        "name": "TechPro Headphones 50",
+        "category": "Headphones",
+        "brand": "TechPro",
+        "price": 94,
+        "description": "Designed for performance and durability"
+    },
+    {
+        "id": 51,
+        "name": "PrimeTech Mouse 51",
+        "category": "Mouse",
+        "brand": "PrimeTech",
+        "price": 181,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 52,
+        "name": "PrimeTech Laptop 52",
+        "category": "Laptop",
+        "brand": "PrimeTech",
+        "price": 1987,
+        "description": "Engineered for maximum productivity"
+    },
+    {
+        "id": 53,
+        "name": "NextGen Headphones 53",
+        "category": "Headphones",
+        "brand": "NextGen",
+        "price": 1459,
+        "description": "Premium design with modern features"
+    },
+    {
+        "id": 54,
+        "name": "PrimeTech Backpack 54",
+        "category": "Backpack",
+        "brand": "PrimeTech",
+        "price": 366,
+        "description": "Best choice for professionals"
+    },
+    {
+        "id": 55,
+        "name": "PowerX Smartphone 55",
+        "category": "Smartphone",
+        "brand": "PowerX",
+        "price": 544,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 56,
+        "name": "NextGen Watch 56",
+        "category": "Watch",
+        "brand": "NextGen",
+        "price": 1995,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 57,
+        "name": "Nova Mouse 57",
+        "category": "Mouse",
+        "brand": "Nova",
+        "price": 1060,
+        "description": "Built with advanced technology"
+    },
+    {
+        "id": 58,
+        "name": "PrimeTech Backpack 58",
+        "category": "Backpack",
+        "brand": "PrimeTech",
+        "price": 256,
+        "description": "Built with advanced technology"
+    },
+    {
+        "id": 59,
+        "name": "NextGen Laptop 59",
+        "category": "Laptop",
+        "brand": "NextGen",
+        "price": 1587,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 60,
+        "name": "EliteGear Camera 60",
+        "category": "Camera",
+        "brand": "EliteGear",
+        "price": 1780,
+        "description": "Lightweight and comfortable"
+    },
+    {
+        "id": 61,
+        "name": "PrimeTech Laptop 61",
+        "category": "Laptop",
+        "brand": "PrimeTech",
+        "price": 510,
+        "description": "Premium design with modern features"
+    },
+    {
+        "id": 62,
+        "name": "Nova Laptop 62",
+        "category": "Laptop",
+        "brand": "Nova",
+        "price": 747,
+        "description": "Engineered for maximum productivity"
+    },
+    {
+        "id": 63,
+        "name": "NextGen Headphones 63",
+        "category": "Headphones",
+        "brand": "NextGen",
+        "price": 353,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 64,
+        "name": "NextGen Headphones 64",
+        "category": "Headphones",
+        "brand": "NextGen",
+        "price": 1662,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 65,
+        "name": "SpeedPro Backpack 65",
+        "category": "Backpack",
+        "brand": "SpeedPro",
+        "price": 1710,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 66,
+        "name": "SmartWave Keyboard 66",
+        "category": "Keyboard",
+        "brand": "SmartWave",
+        "price": 1959,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 67,
+        "name": "TechPro Backpack 67",
+        "category": "Backpack",
+        "brand": "TechPro",
+        "price": 1301,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 68,
+        "name": "UltraGear Backpack 68",
+        "category": "Backpack",
+        "brand": "UltraGear",
+        "price": 783,
+        "description": "Designed for performance and durability"
+    },
+    {
+        "id": 69,
+        "name": "SmartWave Smartphone 69",
+        "category": "Smartphone",
+        "brand": "SmartWave",
+        "price": 348,
+        "description": "High performance and stylish design"
+    },
+    {
+        "id": 70,
+        "name": "SpeedPro Shoes 70",
+        "category": "Shoes",
+        "brand": "SpeedPro",
+        "price": 413,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 71,
+        "name": "SmartWave Watch 71",
+        "category": "Watch",
+        "brand": "SmartWave",
+        "price": 1348,
+        "description": "Premium design with modern features"
+    },
+    {
+        "id": 72,
+        "name": "VisionTech Headphones 72",
+        "category": "Headphones",
+        "brand": "VisionTech",
+        "price": 361,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 73,
+        "name": "EliteGear Laptop 73",
+        "category": "Laptop",
+        "brand": "EliteGear",
+        "price": 1230,
+        "description": "Engineered for maximum productivity"
+    },
+    {
+        "id": 74,
+        "name": "SpeedPro Watch 74",
+        "category": "Watch",
+        "brand": "SpeedPro",
+        "price": 259,
+        "description": "Built with advanced technology"
+    },
+    {
+        "id": 75,
+        "name": "Nova Keyboard 75",
+        "category": "Keyboard",
+        "brand": "Nova",
+        "price": 301,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 76,
+        "name": "VisionTech Speaker 76",
+        "category": "Speaker",
+        "brand": "VisionTech",
+        "price": 1043,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 77,
+        "name": "VisionTech Mouse 77",
+        "category": "Mouse",
+        "brand": "VisionTech",
+        "price": 792,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 78,
+        "name": "PrimeTech Mouse 78",
+        "category": "Mouse",
+        "brand": "PrimeTech",
+        "price": 1122,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 79,
+        "name": "SmartWave Mouse 79",
+        "category": "Mouse",
+        "brand": "SmartWave",
+        "price": 443,
+        "description": "Built with advanced technology"
+    },
+    {
+        "id": 80,
+        "name": "VisionTech Backpack 80",
+        "category": "Backpack",
+        "brand": "VisionTech",
+        "price": 1514,
+        "description": "Lightweight and comfortable"
+    },
+    {
+        "id": 81,
+        "name": "TechPro Shoes 81",
+        "category": "Shoes",
+        "brand": "TechPro",
+        "price": 394,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 82,
+        "name": "NextGen Camera 82",
+        "category": "Camera",
+        "brand": "NextGen",
+        "price": 1006,
+        "description": "Lightweight and comfortable"
+    },
+    {
+        "id": 83,
+        "name": "EliteGear Camera 83",
+        "category": "Camera",
+        "brand": "EliteGear",
+        "price": 763,
+        "description": "Engineered for maximum productivity"
+    },
+    {
+        "id": 84,
+        "name": "VisionTech Shoes 84",
+        "category": "Shoes",
+        "brand": "VisionTech",
+        "price": 835,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 85,
+        "name": "VisionTech Headphones 85",
+        "category": "Headphones",
+        "brand": "VisionTech",
+        "price": 1275,
+        "description": "Built with advanced technology"
+    },
+    {
+        "id": 86,
+        "name": "SpeedPro Shoes 86",
+        "category": "Shoes",
+        "brand": "SpeedPro",
+        "price": 1339,
+        "description": "Affordable and reliable"
+    },
+    {
+        "id": 87,
+        "name": "SpeedPro Keyboard 87",
+        "category": "Keyboard",
+        "brand": "SpeedPro",
+        "price": 329,
+        "description": "Engineered for maximum productivity"
+    },
+    {
+        "id": 88,
+        "name": "NextGen Headphones 88",
+        "category": "Headphones",
+        "brand": "NextGen",
+        "price": 1496,
+        "description": "Built with advanced technology"
+    },
+    {
+        "id": 89,
+        "name": "SpeedPro Mouse 89",
+        "category": "Mouse",
+        "brand": "SpeedPro",
+        "price": 1248,
+        "description": "Premium design with modern features"
+    },
+    {
+        "id": 90,
+        "name": "UltraGear Mouse 90",
+        "category": "Mouse",
+        "brand": "UltraGear",
+        "price": 1059,
+        "description": "Built with advanced technology"
+    },
+    {
+        "id": 91,
+        "name": "UltraGear Keyboard 91",
+        "category": "Keyboard",
+        "brand": "UltraGear",
+        "price": 153,
+        "description": "Built with advanced technology"
+    },
+    {
+        "id": 92,
+        "name": "Nova Mouse 92",
+        "category": "Mouse",
+        "brand": "Nova",
+        "price": 1448,
+        "description": "Best choice for professionals"
+    },
+    {
+        "id": 93,
+        "name": "EliteGear Backpack 93",
+        "category": "Backpack",
+        "brand": "EliteGear",
+        "price": 1794,
+        "description": "Lightweight and comfortable"
+    },
+    {
+        "id": 94,
+        "name": "Nova Camera 94",
+        "category": "Camera",
+        "brand": "Nova",
+        "price": 721,
+        "description": "Engineered for maximum productivity"
+    },
+    {
+        "id": 95,
+        "name": "UltraGear Smartphone 95",
+        "category": "Smartphone",
+        "brand": "UltraGear",
+        "price": 965,
+        "description": "Best choice for professionals"
+    },
+    {
+        "id": 96,
+        "name": "SpeedPro Keyboard 96",
+        "category": "Keyboard",
+        "brand": "SpeedPro",
+        "price": 592,
+        "description": "Perfect for travel and daily work"
+    },
+    {
+        "id": 97,
+        "name": "SmartWave Watch 97",
+        "category": "Watch",
+        "brand": "SmartWave",
+        "price": 1589,
+        "description": "High quality product for everyday use"
+    },
+    {
+        "id": 98,
+        "name": "EliteGear Laptop 98",
+        "category": "Laptop",
+        "brand": "EliteGear",
+        "price": 1823,
+        "description": "Designed for performance and durability"
+    },
+    {
+        "id": 99,
+        "name": "PowerX Smartphone 99",
+        "category": "Smartphone",
+        "brand": "PowerX",
+        "price": 742,
+        "description": "Best choice for professionals"
+    },
+    {
+        "id": 100,
+        "name": "SmartWave Watch 100",
+        "category": "Watch",
+        "brand": "SmartWave",
+        "price": 1125,
+        "description": "Premium design with modern features"
+    }
+]
