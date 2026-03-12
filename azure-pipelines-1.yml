@@ -36,8 +36,12 @@ stages:
       inputs:
         versionSpec: '$(pythonVersion)'
       displayName: 'Use Python $(pythonVersion)'
-
     - script: |
+        where python
+        python --version
+      displayName: "Check Python"
+    - script: |
+    
         python -m venv antenv
         source antenv/bin/activate
         python -m pip install --upgrade pip
